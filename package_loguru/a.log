@@ -1,0 +1,27 @@
+{time:YYYY-MM-DD at HH:mm:ss} | DEBUG | demo_loguru | 34| 这是一条debug日志
+{time:YYYY-MM-DD at HH:mm:ss} | INFO | demo_loguru | 35| 这是一条info日志
+{time:YYYY-MM-DD at HH:mm:ss} | WARNING | demo_loguru | 36| 这是一条warning日志
+{time:YYYY-MM-DD at HH:mm:ss} | SUCCESS | demo_loguru | 37| 这是一条success日志
+{time:YYYY-MM-DD at HH:mm:ss} | ERROR | demo_loguru | 38| 这是一条error日志
+2022-05-30 at 10:49:36 | DEBUG | demo_loguru | 34| 这是一条debug日志
+2022-05-30 at 10:49:36 | INFO | demo_loguru | 35| 这是一条info日志
+2022-05-30 at 10:49:36 | WARNING | demo_loguru | 36| 这是一条warning日志
+2022-05-30 at 10:49:36 | SUCCESS | demo_loguru | 37| 这是一条success日志
+2022-05-30 at 10:49:36 | ERROR | demo_loguru | 38| 这是一条error日志
+2022-05-30 10:49:55 | DEBUG | demo_loguru | 34| 这是一条debug日志
+2022-05-30 10:49:55 | INFO | demo_loguru | 35| 这是一条info日志
+2022-05-30 10:49:55 | WARNING | demo_loguru | 36| 这是一条warning日志
+2022-05-30 10:49:55 | SUCCESS | demo_loguru | 37| 这是一条success日志
+2022-05-30 10:49:55 | ERROR | demo_loguru | 38| 这是一条error日志
+2022-05-30 10:53:50 | DEBUG | demo_loguru | 34| 这是一条debug日志
+2022-05-30 10:53:50 | INFO | demo_loguru | 35| 这是一条info日志
+2022-05-30 10:53:50 | WARNING | demo_loguru | 36| 这是一条warning日志
+2022-05-30 10:53:50 | SUCCESS | demo_loguru | 37| 这是一条success日志
+2022-05-30 10:53:50 | ERROR | demo_loguru | 38| 这是一条error日志
+2022-05-30 10:53:50 | INFO | demo_loguru | 42| 我的名字叫张三
+2022-05-30 10:54:24 | DEBUG | demo_loguru | 34| 这是一条debug日志
+2022-05-30 10:54:24 | INFO | demo_loguru | 35| 这是一条info日志
+2022-05-30 10:54:24 | WARNING | demo_loguru | 36| 这是一条warning日志
+2022-05-30 10:54:24 | SUCCESS | demo_loguru | 37| 这是一条success日志
+2022-05-30 10:54:24 | ERROR | demo_loguru | 38| 这是一条error日志
+2022-05-30 10:54:24 | INFO | demo_loguru | 42| 我的名字叫张三，今天星期1
